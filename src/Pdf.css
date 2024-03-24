@@ -1,0 +1,27 @@
+p {
+  margin: 2px;
+}
+.page {
+  border: 1px;
+  border-color: rgba(0, 0, 0, 0.542);
+  border-style: solid;
+  width: 595px;
+  height: 842px;
+  margin-left: 40px;
+}
+.name {
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  margin: 2px;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+.contact p {
+  margin: 2px;
+  font-size: small;
+}
